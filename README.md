@@ -3,7 +3,7 @@
 ## Analytics 🔬
 
 <p align="center">
-  <img  alt="gabrielsouzaexe's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielsouzaexe?cardType=octocat&theme=buefy" />
+  <img  alt="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielsouzaexe?cardType=octocat&theme=buefy&Background=000000&Text=D5DD8F" />
 </p>
 
 ## Pretty interested 🔥
