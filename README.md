@@ -1,4 +1,10 @@
-## Hi there 🐉
+## Hi, I'm Gabriel 🐉
+<p>
+   I'm currently working at @RedVentures as Software Engineer Intern and I'm always trying to deal with some new and confusing problem.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
 ## Analytics 🔬
 
