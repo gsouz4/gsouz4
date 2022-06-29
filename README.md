@@ -6,7 +6,7 @@
   <img  alt="gabrielsouzaexe's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielsouzaexe?cardType=octocat&theme=radical&Border=FFC6CC" />
 </p>
 
-## Pretty interested 🔥 
+## Pretty interested 🐉
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
