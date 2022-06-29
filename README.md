@@ -3,7 +3,7 @@
 ## Analytics 🔬
 
 <p align="center">
-  <img  src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielsouzaexe?cardType=octocat&theme=buefy&Background=000000&Text=D5DD8F" />
+  <img  src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielsouzaexe?cardType=octocat&theme=buefy&Background=000000&Text=DDAFFF&Ring=FFE5E5&Title=FFE5E5&Border=FF30B21F" />
 </p>
 
 ## Pretty interested 🔥
