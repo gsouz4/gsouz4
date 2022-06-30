@@ -14,7 +14,7 @@
   <img  src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielsouzaexe?cardType=octocat&theme=buefy&Background=000000&Text=DDAFFF&Ring=FFE5E5&Title=FFE5E5&Border=FF30B21F" />
 </p>
 
-## Pretty interested 🔥
+## Pretty interested in...🔥
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
