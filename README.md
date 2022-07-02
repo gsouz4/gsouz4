@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel 🐉
 <p>
-   I'm currently working at <a href="https:redventures.com.br" target="_blank">Red Ventures</a> as Software Engineer Intern and I'm always trying to deal with some new and confusing problem.
+   I'm currently working at <a href="https:redventures.com.br">Red Ventures</a> as Software Engineer Intern and I'm always trying to deal with some new and confusing problem.
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/gabrielsouza-/">
