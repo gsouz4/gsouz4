@@ -10,7 +10,7 @@
 
 ## Analytics 🔬
 
-<p align="center"><a href="http://www.github.com/gabrielsouzaexe"><img src="https://github-readme-stats.vercel.app/api?username=gabrielsouzaexe&show_icons=true&hide=&count_private=true&title_color=C70039&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&s  how_icons=true" alt="peguimasid's GitHub stats" /></a></p>
+<p align="center"><a href="http://www.github.com/gabrielsouzaexe"><img src="https://github-readme-stats.vercel.app/api?username=gabrielsouzaexe&show_icons=true&hide=&count_private=true&title_color=C70039&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&s  how_icons=true" alt="gabrielsouzaexe's GitHub stats" /></a></p>
 
 
 ## Pretty interested in...🔥
