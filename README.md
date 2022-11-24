@@ -10,9 +10,7 @@
 
 ## Analytics 🔬
 
-<p align="center">
-  <img  src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielsouzaexe?cardType=octocat&theme=buefy&Background=000000&Text=DDAFFF&Ring=FFE5E5&Title=FFE5E5&Border=FF30B21F" />
-</p>
+<a align="center" href="http://www.github.com/gabrielsouzaexe"><img src="https://github-readme-stats.vercel.app/api?username=gabrielsouzaexe&show_icons=true&hide=&count_private=true&title_color=6C0BA9&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 
 ## Pretty interested in...🔥
 <p align="center">
