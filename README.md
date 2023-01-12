@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel 🐉
 <p>
-   I'm currently working at <a href="https://redventures.com.br">Red Ventures</a> as Software Engineer Intern.
+   I'm currently working at <a href="https://redventures.com.br">Red Ventures</a> as Software Engineer.
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/gabrielsouza-/">
