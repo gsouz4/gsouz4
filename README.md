@@ -26,5 +26,3 @@
    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
-
-<img src="https://profile-counter.glitch.me/gabrielsouzaexe/count.svg" />
