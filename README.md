@@ -11,8 +11,8 @@
 ## Analytics 🔬
 
 
-<p align="center"><a href="http://www.github.com/gabrielsouzaexe"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielsouzaexe&show_icons=true&hide=&count_private=true&title_color=C70039&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="gabrielsouzaexe's GitHub stats" /></a>
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsouzaexe&stroke=ffffff&background=171717&ring=C70039&fire=C70039&currStreakNum=ffffff&currStreakLabel=C70039&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="gabrielsouzaexe`s Streak Record" />
+<p align="center"><a href="http://www.github.com/gabrielsouzaexe"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gsouz4&show_icons=true&hide=&count_private=true&title_color=C70039&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="gabrielsouzaexe's GitHub stats" /></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=gsouz4&stroke=ffffff&background=171717&ring=C70039&fire=C70039&currStreakNum=ffffff&currStreakLabel=C70039&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="gsouz4`s Streak Record" />
 </a>
 </p>
 
