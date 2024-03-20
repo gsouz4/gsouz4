@@ -3,7 +3,7 @@
    I'm currently working at <a href="https://asapcard.com.br">Asapcard</a> as Software Engineer.
 </p>
 <p align="center">
-   <a href="https://www.linkedin.com/in/gabrielsouza-/">
+   <a href="https://www.linkedin.com/in/gassouza/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
    </a>
 </p>
