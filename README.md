@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel 🐉
 <p>
-   I'm currently working at <a href="https://asapcard.com.br">Asapcard</a> as Software Engineer.
+   Professional Vibe Coder.
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/gassouza/">
