@@ -22,7 +22,7 @@ jobs:
         env:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           # 👇 REPLACE THIS with your Last.fm username
-          LASTFM_USERNAME: YOUR_LASTFM_USERNAME
+          LASTFM_USERNAME: gsouz4
         run: node .github/scripts/update-top-song.mjs
 
       - name: Commit if changed
