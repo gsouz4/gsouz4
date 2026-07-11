@@ -1,61 +1,40 @@
 <!--
-  MOCKUP — cleaner, more visual profile README.
-  Compare against README.md and keep whichever you prefer.
+  MOCKUP v2 — a different, more minimal/editorial approach.
+  Left-aligned, text-forward, less "widget wall."
   If you like this one: rename it to README.md.
 -->
 
-<h1 align="center">Gabriel Souza 🐉</h1>
+### `Gabriel Souza` 🐉
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C70039&center=true&vCenter=true&width=460&lines=Backend+Engineer;Go+%C2%B7+Elixir+%C2%B7+Rust;Building+fast%2C+reliable+systems" alt="Typing SVG" />
-  </a>
-</p>
+> Backend engineer working with **Go**, **Elixir** & **Rust** — building fast, reliable systems.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gassouza/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/gsouz4">
-    <img src="https://img.shields.io/badge/GitHub-%23171717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gassouza/)
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/gsouz4)
+[![Spotify](https://img.shields.io/badge/Now%20vibing%20to-Bohemian%20Rhapsody-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/3z8h0TU7ReDPLIbEnYhWZb)
 
-<br />
+---
 
-## 🛠️ Tech I Work With
+#### 🧰 Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,elixir,rust,postgres,docker,linux,git&theme=dark" alt="Tech stack" />
-</p>
+`Go` · `Elixir` · `Rust` · `PostgreSQL` · `Docker` · `Linux`
 
-<br />
+<img src="https://skillicons.dev/icons?i=go,elixir,rust,postgres,docker,linux&theme=dark" alt="Stack" height="40" />
 
-## 🔬 GitHub Activity
+---
 
-<p align="center">
-  <a href="https://github.com/gsouz4">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=gsouz4&show_icons=true&count_private=true&title_color=C70039&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/gsouz4">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsouz4&layout=compact&langs_count=6&title_color=C70039&text_color=ffffff&bg_color=171717&hide_border=true" alt="Top languages" />
-  </a>
-</p>
+#### 🚧 What I'm building
 
-<br />
+<!-- The most valuable section — swap in 2-3 real projects. -->
 
-## 🚀 What I'm Building
+- **[project-name](https://github.com/gsouz4/project-name)** — one line on what it does.
+- **[another-project](https://github.com/gsouz4/another-project)** — the problem it solves.
 
-<!--
-  Highest-impact section for a "professional" profile.
-  Replace these with 2-3 real projects (or pin them on your GitHub profile).
--->
+---
 
-- **[project-name](https://github.com/gsouz4/project-name)** — one line on what it does and why it's interesting.
-- **[another-project](https://github.com/gsouz4/another-project)** — what problem it solves.
+#### 📊 Activity
 
-<br />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=gsouz4&show_icons=true&count_private=true&title_color=C70039&text_color=808080&icon_color=C70039&bg_color=0,171717,171717&hide_border=true" alt="GitHub stats" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gsouz4&style=for-the-badge&color=C70039&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+---
+
+<sub>🎧 The Spotify badge above is <b>static</b> — it always shows one song you pick and links to it. Swap the text and track URL anytime. A live "now playing" version is possible but needs a Spotify app + hosting.</sub>
