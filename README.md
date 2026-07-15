@@ -2,6 +2,8 @@
 
 # `Gabriel Souza` 🐉
 
+<div>
+
 ```go
 package main
 
@@ -15,6 +17,8 @@ func main() {
 }
 ```
 
+</div>
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gassouza/)
 
 </div>
@@ -26,8 +30,7 @@ func main() {
 ```elixir
 %Gabriel{
   role:     "Software Engineer",
-  loves:    [:concurrency, :fault_tolerance, :clean_queues],
-  mantra:   "make it correct, then make it fast",
+  loves:    [:concurrency, :fault_tolerance],
   status:   :shipping
 }
 ```
