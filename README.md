@@ -20,6 +20,7 @@ func main() {
 </div>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gassouza/)
+[![letterboxd](https://img.shields.io/badge/Letterboxd-14181C?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/gassouza/)
 
 </div>
 
@@ -35,8 +36,8 @@ func main() {
 }
 ```
 
-I spend my days somewhere between goroutines and supervision trees — building
-backends that stay boring under load (the good kind of boring).
+I spend my days somewhere between goroutines and supervision trees, building
+any crazy thing I dreamed and that stay boring under load (the good kind of boring).
 
 ---
 
