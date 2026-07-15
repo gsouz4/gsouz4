@@ -1,27 +1,59 @@
-## `Gabriel Souza` 🐉
+<div align="center">
 
-> Software Engineer working with **Go**, **Elixir** —  building fast, reliable systems.
+# `Gabriel Souza` 🐉
 
-[![linkedin](https://img.shields.io/badge/linkedin-0077b5?style=flat-square&logo=linkedin&logocolor=white)](https://www.linkedin.com/in/gassouza/)
-[![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/gsouz4)
+```go
+package main
+
+func main() {
+    dev := Engineer{
+        Name:   "Gabriel Souza",
+        Craft:  []string{"Go", "Elixir"},
+        Builds: "fast, reliable systems that don't wake me up at 3am",
+    }
+    dev.Ship()
+}
+```
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gassouza/)
+
+</div>
+
+---
+
+### 🧭 whoami
+
+```elixir
+%Gabriel{
+  role:     "Software Engineer",
+  loves:    [:concurrency, :fault_tolerance, :clean_queues],
+  mantra:   "make it correct, then make it fast",
+  status:   :shipping
+}
+```
+
+I spend my days somewhere between goroutines and supervision trees — building
+backends that stay boring under load (the good kind of boring).
 
 ---
 
 ### 🧰 Stack
 
+<div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="Go" title="Go" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="42" alt="Elixir" title="Elixir" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="42" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="42" alt="RabbitMQ" title="RabbitMQ" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="42" alt="RabbitMQ" title="RabbitMQ" />
+
+</div>
 
 
----
-
-### 🚧 What I'm building
-
-- **[project-name](https://github.com/gsouz4/project-name)** — one line on what it does.
-- **[another-project](https://github.com/gsouz4/another-project)** — the problem it solves.
+<!-- ### 🚧 What I'm building -->
+<!---->
+<!-- - **[project-name](https://github.com/gsouz4/project-name)** — one line on what it does. -->
+<!-- - **[another-project](https://github.com/gsouz4/another-project)** — the problem it solves. -->
 
 ---
 
