@@ -20,7 +20,7 @@ func main() {
 </div>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gassouza/)
-[![letterboxd](https://img.shields.io/badge/Letterboxd-14181C?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/gassouza/)
+[![letterboxd](https://img.shields.io/badge/Letterboxd-14181C?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/gs0uz4/)
 
 </div>
 
