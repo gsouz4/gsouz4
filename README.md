@@ -2,7 +2,7 @@
 
 # `Gabriel Souza` 🐉
 
-<div>
+<div align="left">
 
 ```go
 package main
