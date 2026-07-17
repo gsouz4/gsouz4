@@ -29,11 +29,20 @@ func main() {
 ### 🧭 whoami
 
 ```elixir
-%Gabriel{
-  role:     "Software Engineer",
-  loves:    [:concurrency, :fault_tolerance],
-  status:   :shipping
-}
+defmodule Gabriel.OffHours do
+  use Supervisor
+
+  def init(_) do
+    children = [
+      {Cinema,   restart: :permanent},   # letterboxd never sleeps
+      {Soccer,   restart: :permanent},
+      {JiuJitsu, restart: :temporary}   # on a break, no auto-restart
+    ]
+
+    # if one hobby crashes, the others keep me running
+    Supervisor.init(children, strategy: :one_for_one)
+  end
+end
 ```
 
 I spend my days somewhere between goroutines and supervision trees, building
