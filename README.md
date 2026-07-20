@@ -11,8 +11,9 @@ func main() {
     dev := Engineer{
         Name:   "Gabriel Souza",
         Craft:  []string{"Go", "Elixir"},
-        Builds: "fast, reliable systems that don't wake me up at 3am",
+        Builds: "reliable, fast and furious systems",
     }
+
     dev.Ship()
 }
 ```
@@ -34,19 +35,18 @@ defmodule Gabriel.OffHours do
 
   def init(_) do
     children = [
-      {Cinema,   restart: :permanent},   # letterboxd never sleeps
+      {Cinema,   restart: :permanent},
       {Soccer,   restart: :permanent},
-      {JiuJitsu, restart: :temporary}   # on a break, no auto-restart
+      {JiuJitsu, restart: :temporary}
     ]
 
-    # if one hobby crashes, the others keep me running
     Supervisor.init(children, strategy: :one_for_one)
   end
 end
 ```
 
-I spend my days somewhere between goroutines and supervision trees, building
-any crazy thing I dreamed and that stay boring under load (the good kind of boring).
+I spend my days just like the K in my profile, staring at an IA and thinking about building
+any crazy thing I dreamed.
 
 ---
 
@@ -61,7 +61,6 @@ any crazy thing I dreamed and that stay boring under load (the good kind of bori
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="42" alt="RabbitMQ" title="RabbitMQ" />
 
 </div>
-
 
 <!-- ### 🚧 What I'm building -->
 <!---->
