@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/Orochi/_/Bolad%C3%A3o+Escutando+Orochi" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Orochi/_/Bolad%C3%A3o+Escutando+Orochi"><b>Boladão Escutando Orochi</b></a><br /><sub>Orochi<br />♫ 6 plays this week</sub></td></tr></table>
+<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/Japa/_/Flowers" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Japa/_/Flowers"><b>Flowers</b></a><br /><sub>Japa<br />♫ 4 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
