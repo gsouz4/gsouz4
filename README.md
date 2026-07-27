@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/Japa/_/Flowers" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Japa/_/Flowers"><b>Flowers</b></a><br /><sub>Japa<br />♫ 4 plays this week</sub></td></tr></table>
+<table><tr><td width="108"><a href="https://www.last.fm/music/Drake/_/Dust"><img src="https://lastfm.freetls.fastly.net/i/u/300x300/fce743611efe35544d9bfc035ec94a96.png" width="96" height="96" alt="Album cover" /></a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Drake/_/Dust"><b>Dust</b></a><br /><sub>Drake<br />♫ 2 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
