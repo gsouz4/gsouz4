@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/Oruam/_/Salmo+121" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Oruam/_/Salmo+121"><b>Salmo 121</b></a><br /><sub>Oruam<br />♫ 3 plays this week</sub></td></tr></table>
+<table><tr><td width="108"><a href="https://www.last.fm/music/PARTYNEXTDOOR/_/GREEDY"><img src="https://lastfm.freetls.fastly.net/i/u/300x300/efe7b760cfd4996171b4a67f2342d1dc.png" width="96" height="96" alt="Album cover" /></a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/PARTYNEXTDOOR/_/GREEDY"><b>GREEDY</b></a><br /><sub>PARTYNEXTDOOR<br />♫ 3 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
