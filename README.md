@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108"><a href="https://www.last.fm/music/Filipe+Ret/_/Cora%C3%A7%C3%A3o+Vagabundo"><img src="https://lastfm-img.freetls.fastly.net/i/u/300x300/246e587db4e44f1a42eb0d1e407243b6.png" width="96" height="96" alt="Album cover" /></a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Filipe+Ret/_/Cora%C3%A7%C3%A3o+Vagabundo"><b>Coração Vagabundo</b></a><br /><sub>Filipe Ret<br />♫ 4 plays this week</sub></td></tr></table>
+<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/G.A/_/s%C3%B3+penso+em+tu+garota" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/G.A/_/s%C3%B3+penso+em+tu+garota"><b>só penso em tu garota</b></a><br /><sub>G.A<br />♫ 6 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
