@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/G.A/_/s%C3%B3+penso+em+tu+garota" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/G.A/_/s%C3%B3+penso+em+tu+garota"><b>só penso em tu garota</b></a><br /><sub>G.A<br />♫ 10 plays this week</sub></td></tr></table>
+<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/G.A/_/s%C3%B3+penso+em+tu+garota" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/G.A/_/s%C3%B3+penso+em+tu+garota"><b>só penso em tu garota</b></a><br /><sub>G.A<br />♫ 11 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
