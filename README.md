@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108"><a href="https://www.last.fm/music/G.A/_/foto+com+o+bumbum+pra+lua"><img src="https://lastfm-img.freetls.fastly.net/i/u/300x300/ba786ae5b338da0f993bc514024df49d.png" width="96" height="96" alt="Album cover" /></a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/G.A/_/foto+com+o+bumbum+pra+lua"><b>foto com o bumbum pra lua</b></a><br /><sub>G.A<br />♫ 6 plays this week</sub></td></tr></table>
+<table><tr><td width="108"><a href="https://www.last.fm/music/G.A/_/foto+com+o+bumbum+pra+lua"><img src="https://lastfm-img.freetls.fastly.net/i/u/300x300/ba786ae5b338da0f993bc514024df49d.png" width="96" height="96" alt="Album cover" /></a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/G.A/_/foto+com+o+bumbum+pra+lua"><b>foto com o bumbum pra lua</b></a><br /><sub>G.A<br />♫ 4 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
