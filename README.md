@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/Oruam/_/Sistema+Fraco" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Oruam/_/Sistema+Fraco"><b>Sistema Fraco</b></a><br /><sub>Oruam<br />♫ 2 plays this week</sub></td></tr></table>
+<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/21+Savage/_/Runnin" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/21+Savage/_/Runnin"><b>Runnin</b></a><br /><sub>21 Savage<br />♫ 1 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
