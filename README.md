@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108"><a href="https://www.last.fm/music/G.A/_/todas+pra+frente"><img src="https://lastfm-img.freetls.fastly.net/i/u/300x300/9754b593ab97e5bae2f9d537a2fb444b.png" width="96" height="96" alt="Album cover" /></a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/G.A/_/todas+pra+frente"><b>todas pra frente</b></a><br /><sub>G.A<br />♫ 3 plays this week</sub></td></tr></table>
+<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/Yuri+Redicopa/_/Radiar+Radiei" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Yuri+Redicopa/_/Radiar+Radiei"><b>Radiar Radiei</b></a><br /><sub>Yuri Redicopa<br />♫ 7 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
