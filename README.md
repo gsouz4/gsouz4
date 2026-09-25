@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/MC+Jvila/_/Lembran%C3%A7as" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/MC+Jvila/_/Lembran%C3%A7as"><b>Lembranças</b></a><br /><sub>MC Jvila<br />♫ 6 plays this week</sub></td></tr></table>
+<table><tr><td width="108"><a href="https://www.last.fm/music/Brand%C3%A3o85/_/Noite+Perfeita"><img src="https://lastfm-img.freetls.fastly.net/i/u/300x300/e4120cce5ee65a38e122fab6fc55bc29.png" width="96" height="96" alt="Album cover" /></a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Brand%C3%A3o85/_/Noite+Perfeita"><b>Noite Perfeita</b></a><br /><sub>Brandão85<br />♫ 5 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
