@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/Yuri+Redicopa/_/Radiar+Radiei" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Yuri+Redicopa/_/Radiar+Radiei"><b>Radiar Radiei</b></a><br /><sub>Yuri Redicopa<br />♫ 3 plays this week</sub></td></tr></table>
+<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/Bielzin/_/Pentacampe%C3%A3o" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/Bielzin/_/Pentacampe%C3%A3o"><b>Pentacampeão</b></a><br /><sub>Bielzin<br />♫ 3 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
