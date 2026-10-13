@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/DJ+VINI+DA+ZO/_/Procedimento" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/DJ+VINI+DA+ZO/_/Procedimento"><b>Procedimento</b></a><br /><sub>DJ VINI DA ZO<br />♫ 2 plays this week</sub></td></tr></table>
+<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/DJ+VINI+DA+ZO/_/Procedimento" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/DJ+VINI+DA+ZO/_/Procedimento"><b>Procedimento</b></a><br /><sub>DJ VINI DA ZO<br />♫ 3 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
