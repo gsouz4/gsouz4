@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/MC+Meno+K/_/Sagitariana" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/MC+Meno+K/_/Sagitariana"><b>Sagitariana</b></a><br /><sub>MC Meno K<br />♫ 5 plays this week</sub></td></tr></table>
+<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/MC+Meno+K/_/Sagitariana" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/MC+Meno+K/_/Sagitariana"><b>Sagitariana</b></a><br /><sub>MC Meno K<br />♫ 4 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
