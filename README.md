@@ -70,5 +70,5 @@ any crazy thing I dreamed.
 ---
 
 <!-- TOP_SONG:START -->
-<table><tr><td width="108"><a href="https://www.last.fm/music/DJ+WILL+TN/_/Eu+N%C3%A3o+Vou+Namorar"><img src="https://lastfm-img.freetls.fastly.net/i/u/300x300/b050ec7d7f5398887397a0021f97201a.png" width="96" height="96" alt="Album cover" /></a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/DJ+WILL+TN/_/Eu+N%C3%A3o+Vou+Namorar"><b>Eu Não Vou Namorar</b></a><br /><sub>DJ WILL TN<br />♫ 3 plays this week</sub></td></tr></table>
+<table><tr><td width="108" align="center"><a href="https://www.last.fm/music/MC+VN+Cria/_/Ritmo+Era+Uma+Vez" style="font-size:42px;text-decoration:none">🎵</a></td><td>🎧 <b>On repeat this week</b><br /><br /><a href="https://www.last.fm/music/MC+VN+Cria/_/Ritmo+Era+Uma+Vez"><b>Ritmo Era Uma Vez</b></a><br /><sub>MC VN Cria<br />♫ 3 plays this week</sub></td></tr></table>
 <!-- TOP_SONG:END -->
